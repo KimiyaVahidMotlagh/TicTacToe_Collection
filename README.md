@@ -4,10 +4,10 @@ a 4x4 version with an advanced AI and a 3x3 version with a simpler AI. These pro
 game AI development, and event-driven programming using Python.
 
 ## Table of Contents
-- [GUI Description](https://github.com/KimiyaVahidMotlagh/TicTacToe/new/main?filename=README.md#gui-description)
-- [AI Opponent]()
-- [How to Play]()
-- [Contributing]()
+- [GUI Description](https://github.com/KimiyaVahidMotlagh/TicTacToe-Collection#gui-description)
+- [AI Opponent](https://github.com/KimiyaVahidMotlagh/TicTacToe-Collection#ai-opponent)
+- [How to Play](https://github.com/KimiyaVahidMotlagh/TicTacToe-Collection#how-to-play)
+- [Contributing](https://github.com/KimiyaVahidMotlagh/TicTacToe-Collection#contributing)
 
 ## GUI Description
 In both versions, there are main GUI features which can be implemented using Tkinter in Python:
